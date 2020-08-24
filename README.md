@@ -9,4 +9,3 @@ I'm a Software Developer passionate about Open Source.
 <a href="https://dantecalderon.dev"><img alt="Robot logo" src="https://res.cloudinary.com/practicaldev/image/fetch/s--OoBLh7-Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1614/1%2A8BlqJ8lNVZzuRjAg1mZ50w.png" align="right" height="100" /></a>
 
 In fact
-* Zero
