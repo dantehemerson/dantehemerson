@@ -9,3 +9,9 @@ I also have a [blog](https://dantecalderon.dev) were you can find various articl
 [![ThePracticalDev Badge](https://img.shields.io/badge/-@dantehemerson-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/dantehemerson)](https://dev.to/dantehemerson)
 <a href="https://dantecalderon.dev"><img alt="Robot logo" src="https://res.cloudinary.com/practicaldev/image/fetch/s--OoBLh7-Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1614/1%2A8BlqJ8lNVZzuRjAg1mZ50w.png" align="right" height="200" /></a>
 
+
+Because tracking is important, here are some of my numbers:
+
+`Goodreads current reading list`
+`Todoist`
+
