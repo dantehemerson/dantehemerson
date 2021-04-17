@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engienner specialized in Node.js and Typescript. I love doing Open Source, you can check my contributions here.
+I'm a Software Engineer specialized in Node.js and Typescript. I love doing Open Source, you can check my contributions here.
 
 I also have a [blog](https://dantecalderon.dev) were you can find various articles about programming.
 
